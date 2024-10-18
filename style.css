@@ -61,6 +61,7 @@ section h2:after {
 /* Header defaults */
 header {
   background-color: rgba(37, 37, 37, 0.8);
+  margin: 1rem;
 }
 
 /* 
